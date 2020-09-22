@@ -1,0 +1,9 @@
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\Curso Agosto Git\API_Ordenes\Models\obj\Debug\netcoreapp3.1\Models.pdb
